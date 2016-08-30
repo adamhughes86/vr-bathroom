@@ -1,8 +1,9 @@
-.DS_Store
+.DS_STORE
+.vagrant
 .sass-cache
 .idea
 bower_components/
 npm-debug.log
 node_modules/
-html/assets/build/
-html/uploads/
+public/assets/build/
+public/uploads/

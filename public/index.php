@@ -12,6 +12,8 @@
 
 <body>
 
+  <?php echo 'Hello World'; ?>
+
 <script src="../../../assets/src/js/libs/modernizr-custom.js"></script>
 <script src="../../../assets/src/js/libs/jquery-1.12.4.min.js"></script>
 <script src="../../../assets/src/js/libs/enquire.min.js"></script>

@@ -2,7 +2,7 @@ var gulp = require('gulp');
 var sourcemaps = require('gulp-sourcemaps');
 var sass = require('gulp-sass');
 
-var assetsPath = '../html/assets';
+var assetsPath = '../public/assets';
 
 gulp.task('css', function () {
  return gulp.src(assetsPath + '/src/sass/*.scss')
