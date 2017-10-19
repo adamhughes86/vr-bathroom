@@ -1,4 +1,4 @@
-# Skeleton
+# VR Flying with A-Frame
 
 ## Setting up locally
 This uses Vagrant and a specific box called Scotchbox as a starter template. In order to get your local environment running you must install Vagrant and VirtualBox to your computer. (Follow this guide for more info - https://box.scotch.io/)
