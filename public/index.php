@@ -17,7 +17,7 @@
       <a-asset-item id="bathroom2-ply" src="assets/models/bathroom/bathroom-blendered.ply"></a-asset-item>
     </a-assets>
 
-    <a-entity id="camera" camera="userHeight: 1.00" look-controls position="-4.692 14.414 -8.426" rotation="0 180 0">
+    <a-entity id="camera" camera="userHeight: 1.00" look-controls position="-8.294 15.414 -8.426" rotation="0 180 0">
     </a-entity>
 
     <a-sky color="#136171"></a-sky>
@@ -28,7 +28,7 @@
     <a-entity id="light1" light="type: directional; color: #FFF1E0; intensity: 1" position="-5 35 20"></a-entity>
     <a-entity id="light2" light="type: directional; color: #FFF1E0; intensity: 1" position="10 36 23"></a-entity>
 
-    <a-entity id="bathroomPly" ply-model="src: #bathroom2-ply"  position="0 13.000 0" rotation="-90 0 0"></a-entity>
+    <a-entity id="bathroomPly" ply-model="src: #bathroom2-ply"  position="0 18.014 0" rotation="-90 0 0"></a-entity>
 
   </a-scene>
 
